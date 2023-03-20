@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jLes
-- 👀 I’m interested in Physics, Biophysics, GIS, Blender, computer vision
-- 🌱 I’m currently learning UnrealEngine5
+- 👀 I’m interested in Physics, Biophysics, GIS, Blender, computer vision, unmanned aerial systems, machine learning (esp. convolutional neural networks)
+- 🌱 I’m currently learning UnrealEngine5 and ROS2
 
 
 <!---
